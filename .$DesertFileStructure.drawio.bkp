@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-09-07T19:20:29.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="Lr0bs3cAq_QZ54G6CjIE" version="21.6.8" type="device" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-09-06T16:28:07.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ASWLgMNfEKgeLJWcErXh" version="21.7.2" type="device" pages="6">
   <diagram name="Example" id="n_lD8l_c9EYYbuZH11G7">
-    <mxGraphModel dx="2954" dy="2296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2954" dy="2242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2706,8 +2706,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Draft_20230820" id="qVL8sXLu1ZQkFVFchqE_">
-    <mxGraphModel dx="2954" dy="3196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram name="Draft_20230803" id="qVL8sXLu1ZQkFVFchqE_">
+    <mxGraphModel dx="2954" dy="3142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="z9XIVwQoTeKT_8y9aFBQ-0" />
         <mxCell id="z9XIVwQoTeKT_8y9aFBQ-1" value="Levels" style="locked=1;" parent="z9XIVwQoTeKT_8y9aFBQ-0" visible="0" />
@@ -2945,7 +2945,7 @@
         <mxCell id="8oX6_0KUdBfZ7YRfsUEu-78" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="z9XIVwQoTeKT_8y9aFBQ-18" source="z9XIVwQoTeKT_8y9aFBQ-54" target="8oX6_0KUdBfZ7YRfsUEu-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_E0Bzqb1WPwOtVAF6c_a-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="z9XIVwQoTeKT_8y9aFBQ-18" source="z9XIVwQoTeKT_8y9aFBQ-54" target="_E0Bzqb1WPwOtVAF6c_a-0" edge="1">
+        <mxCell id="_E0Bzqb1WPwOtVAF6c_a-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="z9XIVwQoTeKT_8y9aFBQ-18" source="z9XIVwQoTeKT_8y9aFBQ-54" target="_E0Bzqb1WPwOtVAF6c_a-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z9XIVwQoTeKT_8y9aFBQ-54" value="[CAMERA_NAME | unknown]&lt;br&gt;(or serial number)" style="rounded=0;whiteSpace=wrap;html=1;" parent="z9XIVwQoTeKT_8y9aFBQ-18" vertex="1">
@@ -3856,8 +3856,8 @@
         <mxCell id="8oX6_0KUdBfZ7YRfsUEu-97" value="[MONTH]" style="rounded=0;whiteSpace=wrap;html=1;" parent="z9XIVwQoTeKT_8y9aFBQ-18" vertex="1">
           <mxGeometry x="2019" y="-1783" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_E0Bzqb1WPwOtVAF6c_a-0" value="LiveView" style="rounded=0;whiteSpace=wrap;html=1;" parent="z9XIVwQoTeKT_8y9aFBQ-18" vertex="1">
-          <mxGeometry x="1029" y="-1716" width="120" height="60" as="geometry" />
+        <mxCell id="_E0Bzqb1WPwOtVAF6c_a-0" value="LiveView" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z9XIVwQoTeKT_8y9aFBQ-18">
+          <mxGeometry x="1025" y="-1709" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
